@@ -1,0 +1,9 @@
+# Removing mac folder
+.DS_Store
+
+# Removing build files
+build/
+
+# Removing temp files
+tmp/
+.*~
